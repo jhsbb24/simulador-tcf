@@ -1,0 +1,11 @@
+{
+  "name": "simulador-tcf-pruebas",
+  "private": true,
+  "description": "Pruebas automáticas del Simulador TCF Canada",
+  "scripts": {
+    "test": "node pruebas.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}

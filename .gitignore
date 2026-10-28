@@ -1,0 +1,10 @@
+# Respaldos personales: se quedan en tu dispositivo, nunca en el repositorio
+respaldo-tcf-*.json
+*respaldo*.json
+
+# Dependencias de las pruebas
+node_modules/
+tests/package-lock.json
+
+# Archivos del sistema
+.DS_Store
